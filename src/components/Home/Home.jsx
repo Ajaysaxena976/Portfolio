@@ -24,7 +24,7 @@ function Home() {
   </div>
   <div className="intro bg-blue-600 rounded-2xl text-justify text-1xl main2 p-4 h-auto w-1/2 mb-16 mt-8 flex justify-center items-center  text-white">
     <div>
-    As a Full Stack Developer I specialize in the MERN stack, offering comprehensive web development services. My skills span frontend and backend development, allowing me to manage web applications from concept to deployment. Passionate about coding, I excel in creating responsive, user-centric designs with React, efficient database management with MongoDB, and robust server-side solutions with Node.js and Express.js. Known for problem-solving and detailed-oriented coding, I ensure quality and scalability in projects. Actively seeking opportunities to apply my skills and grow. Contact me at mayanksaxena2214@gmail.com for collaborations or discussions.
+    As a Full Stack Developer I specialize in the MERN stack, offering comprehensive web development services. My skills span frontend and backend development, allowing me to manage web applications from concept to deployment. Passionate about coding, I excel in creating responsive, user-centric designs with React, efficient database management with MongoDB, and robust server-side solutions with Node.js and Express.js. Known for problem-solving and detailed-oriented coding, I ensure quality and scalability in projects. Actively seeking opportunities to apply my skills and grow. Contact me at ajaysa9760@gmail.com for collaborations or discussions.
     </div>
   </div>
 </div>
