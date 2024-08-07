@@ -57,11 +57,11 @@ function Header() {
                 >Projects
             </NavLink>
       </li>
-      <li>
+{/*       <li>
             <NavLink to="/certificates" className={({isActive}) => `block py-2 ${isActive? "text-orange-700": "text-white"} pr-4 pl-3 duration-200 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-purple-500 lg:p-0`}
                 >Certificates
             </NavLink>
-      </li>
+      </li> */}
       <li>
             <NavLink to="/socials" className={({isActive}) => `block py-2 ${isActive? "text-orange-700": "text-white"} pr-4 pl-3 duration-200 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-purple-500 lg:p-0`}
                 >Socials
