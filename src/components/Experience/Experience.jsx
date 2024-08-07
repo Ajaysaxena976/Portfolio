@@ -10,7 +10,7 @@ function Experience() {
     className="vertical-timeline-element--work text-center"
     contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
-    date="June 2024-September 2024"
+    date="July 2024-September 2024"
     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
     // icon={<WorkIcon />}
   >
