@@ -16,7 +16,7 @@ function Footer() {
               </a>
               {/* button for downloading the resume */}
               <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-4">
-                <a href="https://drive.google.com/file/d/1PD19yqVcG8JyXcR5Wugbxwrs8JjklWUI/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/1dE6H_YNAQG7kAf0NCB8gGbJ67V-9hDdJ/view">
                 Resume
                 </a>
               </button>
